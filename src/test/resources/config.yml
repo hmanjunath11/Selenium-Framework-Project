@@ -1,0 +1,9 @@
+browser: "chrome"
+deleteCookies: true
+driverPath: "C:\\Users\\ANURAG\\Downloads\\Compressed\\chromedriver_win32\\chromedriver.exe"
+explicitTimeOut: 30
+implicitTimeOut: 10
+maximize: true
+pageLoadTimeOut: 60
+users:
+  <myUser/Email>: <userPassword>
